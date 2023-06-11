@@ -24,15 +24,15 @@ with open('f1.txt','r') as f1:
             
 ```
 ### OUTPUT:
+![Screenshot (46)](https://github.com/jayasridodda/copy-file/assets/123259278/5408e689-78e3-4819-90cb-2a683e94c099)
 
-![Screenshot (46)](https://github.com/jayasridodda/copy-file/assets/123259278/fff80964-fa29-4433-9caf-e5c7633abc89)
 
 ## File1
-![Screenshot (47)](https://github.com/jayasridodda/copy-file/assets/123259278/46abe598-44cf-4144-9365-2ae4cfa2ec4f)
+![Screenshot (47)](https://github.com/jayasridodda/copy-file/assets/123259278/b51f1c4c-db5f-4535-814d-b5b07065e083)
 
 ## File2
-![Screenshot (48)](https://github.com/jayasridodda/copy-file/assets/123259278/f6dc5a12-2dda-4977-8835-7827e19a9923)
 
+![Screenshot (48)](https://github.com/jayasridodda/copy-file/assets/123259278/6a4b5ca4-5202-43b4-a05a-019cf94137b1)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
